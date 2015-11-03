@@ -1,0 +1,22 @@
+{
+  "name": "react-native-tesseract-ocr",
+  "version": "1.0.0",
+  "description": "A wrapper for tesseract-OCR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "reactnative",
+    "ios",
+    "tesseract",
+    "ocr"
+  ],
+  "author": "soliury",
+  "license": "ISC",
+  "devDependencies": {
+    "coffee-script": "^1.10.0",
+    "gulp": "^3.9.0"
+  }
+}
